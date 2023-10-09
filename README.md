@@ -23,4 +23,3 @@ helm install nginxdemos-hello .
 ```bash
 helm uninstall nginxdemos-hello
 ```
-🙏 Спасибо за использование NGINXDemos Hello!
